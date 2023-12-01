@@ -1,15 +1,37 @@
-numpy>=1.18.0
-cloudpickle>=1.2.0
-importlib_metadata>=4.8.0; python_version < '3.10'
-gym_notices>=0.0.4
-dataclasses==0.8; python_version == '3.6'
-typing_extensions==4.3.0; python_version == '3.7'
-opencv-python>=3.0
-lz4>=3.1.0
-matplotlib>=3.0
-box2d-py==2.3.5
-pygame==2.1.0
-ale-py~=0.8.0
-mujoco==2.2.0
-mujoco_py<2.2,>=2.1
-imageio>=2.14.1
+box2d-py @ file:///Users/runner/miniforge3/conda-bld/box2d-py_1695443463430/work
+certifi==2023.7.22
+charset-normalizer==3.3.2
+cloudpickle @ file:///home/conda/feedstock_root/build_artifacts/cloudpickle_1697464713350/work
+contourpy==1.2.0
+cycler==0.12.1
+filelock==3.13.1
+fonttools==4.45.0
+fsspec==2023.10.0
+gym @ file:///Users/runner/miniforge3/conda-bld/gym_1673317643154/work
+gym-notices @ file:///home/conda/feedstock_root/build_artifacts/gym-notices_1671541680412/work
+idna==3.4
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1688754491823/work
+importlib-resources==6.1.1
+Jinja2==3.1.2
+kiwisolver==1.4.5
+MarkupSafe==2.1.3
+matplotlib==3.8.2
+mpmath==1.3.0
+networkx==3.2.1
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1695291061432/work/dist/numpy-1.26.0-cp39-cp39-macosx_11_0_arm64.whl#sha256=ff9dc9f169db024af6610041dc703f83f93303cf0d7bfa2f145374c0e1a85bc7
+packaging==23.2
+Pillow==10.1.0
+pygame @ file:///Users/runner/miniforge3/conda-bld/pygame_1676413505435/work
+pyglet==2.0.10
+pyparsing==3.1.1
+python-dateutil==2.8.2
+requests==2.31.0
+scipy==1.11.4
+six==1.16.0
+sympy==1.12
+torch==2.1.0
+torchaudio==2.1.0
+torchvision==0.16.0
+typing_extensions==4.8.0
+urllib3==2.0.7
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1695255097490/work

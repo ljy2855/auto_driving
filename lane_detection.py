@@ -176,7 +176,6 @@ class LaneDetection:
             row += 1
 
             if row == self.cut_size:
-                print("cut_size 끝에 도달하여 차선을 찾지 못했습니다.")
                 lane_boundary1_startpoint = np.array([[0, 0]])
                 lane_boundary2_startpoint = np.array([[0, 0]])
                 break
